@@ -1,8 +1,9 @@
 function absolute(n) {
-    
-
-	
+    let newVal = (n < 0) ? n * -1 : n; 
+    return newVal;
 }
+
+console.log(absolute(-10));
 
 //What is the abs function? 
 
