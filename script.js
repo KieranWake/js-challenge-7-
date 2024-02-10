@@ -1,4 +1,5 @@
 function absolute(n) {
+    
 
 	
 }
@@ -12,4 +13,6 @@ function absolute(n) {
 // by a negative to equal a positive for the same functionality. Lets pseudocode! 
 
 //declare a let variable which will store our data. 
-//
+//State that 0 is greater than our parameter n (places in the negative) 
+//Use conditional statement to check if num is multiplied by a negative one -
+// if so, return it's value, converted to a positive. 
